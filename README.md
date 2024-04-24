@@ -63,3 +63,8 @@ The weather data used in this analysis was sourced from reputable sources such a
   - Query to find top 10 locations with highest difference between current and feels-like temperature
 - **Locations with Highest Feels-Like Temperature Deviation:**
   - Query to find top locations where feels-like temperature differs most from actual temperature
+
+
+## Output
+
+<img width="484" alt="max_temp" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/b30acd7a-2064-4b98-9012-900043783208">
