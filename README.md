@@ -65,6 +65,23 @@ The weather data used in this analysis was sourced from reputable sources such a
   - Query to find top locations where feels-like temperature differs most from actual temperature
 
 
-## Output
+# Output
 
+## 🌍Top 5 Cities Temperature Analysis in Maharashtra
+### Top 5 cities with highest temperature in Maharashtra
 <img width="484" alt="max_temp" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/b30acd7a-2064-4b98-9012-900043783208">
+
+### Top 5 cities with lowest temperature in Maharashtra
+
+## 💼 Potential Business Insights
+### Locations for Potential Ice-Cream Parlors
+
+### Cities with High Humidity Levels:
+
+## 💨 Wind Analysis
+### Hourly Wind Analysis
+### Locations with Strongest Winds
+### xtreme Wind Events Analysis
+
+
+
