@@ -86,6 +86,8 @@ The weather data used in this analysis was sourced from reputable sources such a
 <img width="586" alt="hourly_wind" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/899cbb77-83ba-41b7-98ea-7e3ab7d5f6e9">
 
 ### Locations with Strongest Winds
+<img width="615" alt="Strongest_winds" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/ed588a66-3b34-4b30-8b65-5b5a4fe0bb02">
+
 ### Extreme Wind Events Analysis
 <img width="617" alt="gusts" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/b025f685-af3b-43bf-9136-ecb17684f6b4">
 
