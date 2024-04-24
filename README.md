@@ -72,16 +72,34 @@ The weather data used in this analysis was sourced from reputable sources such a
 <img width="484" alt="max_temp" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/b30acd7a-2064-4b98-9012-900043783208">
 
 ### Top 5 cities with lowest temperature in Maharashtra
+<img width="476" alt="min_temp" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/69014c80-aad4-41f2-95ee-fbc5ffb4c5e2">
 
 ## 💼 Potential Business Insights
 ### Locations for Potential Ice-Cream Parlors
+<img width="944" alt="ice_cream" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/c585372e-18dd-4f08-b26d-469c9e464449">
 
 ### Cities with High Humidity Levels:
+<img width="396" alt="60percent" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/3498389f-21e3-4f9d-bcc9-0c06ff21a9e1">
 
 ## 💨 Wind Analysis
 ### Hourly Wind Analysis
+<img width="586" alt="hourly_wind" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/899cbb77-83ba-41b7-98ea-7e3ab7d5f6e9">
+
 ### Locations with Strongest Winds
-### xtreme Wind Events Analysis
+### Extreme Wind Events Analysis
+<img width="617" alt="gusts" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/b025f685-af3b-43bf-9136-ecb17684f6b4">
+
+## 🌫️ Visibility Analysis
+### Locations with Poor Visibility
+<img width="796" alt="avg_visibilty" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/34c1ec12-e697-4588-acba-cd5a8b2dbe20">
+
+## 🌡️ Temperature and Feels-Like Temperature Comparison
+### Top Locations with Highest Temperature Difference
+<img width="1093" alt="diff_curr_feel" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/6fb40864-5c4a-4bf7-8675-3bccf3d0f752">
+
+### Locations with Highest Feels-Like Temperature Deviation
+<img width="540" alt="comparedtofeels" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/dd69d172-f3e1-4c3d-b8ef-f65ab34f2d2e">
+
 
 
 
