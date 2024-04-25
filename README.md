@@ -41,29 +41,26 @@ The weather data used in this analysis was sourced from reputable sources such a
   - Query for top 5 cities with lowest temperature
 
 ## 💼 Potential Business Insights
-- **Locations for Potential Ice-Cream Parlors:**
-  - Query for cities in Maharashtra suitable for ice-cream parlors based on weather conditions
+- **Potential Locations for Ice-Cream Parlors/Cold Beverages Stores OR Potential Locations for Brand Ads::**
+  - Query for cities in Maharashtra suitable for ice-cream parlors/brand ads based on weather conditions
 - **Cities with High Humidity Levels:**
-  - Query for cities in Maharashtra with average humidity > 60% between specified dates
+  - Query for cities in Maharashtra with average humidity > 60% between 'August 29, 2023' , and 'March 1, 2024'.
 
 ## 💨 Wind Analysis
-- **Hourly Wind Analysis:**
+- **Hourly Wind Analysis for Wind Turbine Placement**
   - Query to analyze wind data on an hourly basis
 - **Locations with Strongest Winds:**
   - Query to identify locations with highest average wind speed
 - **Extreme Wind Events Analysis:**
-  - Query to identify top 20 cities with maximum gusts
+  - Query to identify top 20 cities with maximum gusts between dates '29th August, 2023' and '1st April, 2024'.
 
 ## 🌫️ Visibility Analysis
 - **Locations with Poor Visibility:**
   - Query to find cities where visibility is below average or very poor
 
 ## 🌡️ Temperature and Feels-Like Temperature Comparison
-- **Top Locations with Highest Temperature Difference:**
-  - Query to find top 10 locations with highest difference between current and feels-like temperature
 - **Locations with Highest Feels-Like Temperature Deviation:**
   - Query to find top locations where feels-like temperature differs most from actual temperature
-
 
 # Output
 
@@ -75,14 +72,14 @@ The weather data used in this analysis was sourced from reputable sources such a
 <img width="476" alt="min_temp" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/69014c80-aad4-41f2-95ee-fbc5ffb4c5e2">
 
 ## 💼 Potential Business Insights
-### Locations for Potential Ice-Cream Parlors
+### Potential Locations for Ice-Cream Parlors/Cold Beverages Stores OR Potential Locations for Brand Ads
 <img width="944" alt="ice_cream" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/c585372e-18dd-4f08-b26d-469c9e464449">
 
 ### Cities with High Humidity Levels:
 <img width="396" alt="60percent" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/3498389f-21e3-4f9d-bcc9-0c06ff21a9e1">
 
 ## 💨 Wind Analysis
-### Hourly Wind Analysis
+### Hourly Wind Analysis for Wind Turbine Placement
 <img width="586" alt="hourly_wind" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/899cbb77-83ba-41b7-98ea-7e3ab7d5f6e9">
 
 ### Locations with Strongest Winds
@@ -96,9 +93,6 @@ The weather data used in this analysis was sourced from reputable sources such a
 <img width="796" alt="avg_visibilty" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/34c1ec12-e697-4588-acba-cd5a8b2dbe20">
 
 ## 🌡️ Temperature and Feels-Like Temperature Comparison
-### Top Locations with Highest Temperature Difference
-<img width="1093" alt="diff_curr_feel" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/6fb40864-5c4a-4bf7-8675-3bccf3d0f752">
-
 ### Locations with Highest Feels-Like Temperature Deviation
 <img width="540" alt="comparedtofeels" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/dd69d172-f3e1-4c3d-b8ef-f65ab34f2d2e">
 
