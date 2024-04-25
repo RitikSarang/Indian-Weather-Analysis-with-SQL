@@ -41,13 +41,13 @@ The weather data used in this analysis was sourced from reputable sources such a
   - Query for top 5 cities with lowest temperature
 
 ## 💼 Potential Business Insights
-- **Potential Locations for Ice-Cream Parlors/Cold Beverages Stores OR Potential Locations for Brand Ads::**
+- **Potential Locations for Ice-Cream Parlors/Cold Beverages Stores OR Potential Locations for Brand Ads:**
   - Query for cities in Maharashtra suitable for ice-cream parlors/brand ads based on weather conditions
 - **Cities with High Humidity Levels:**
   - Query for cities in Maharashtra with average humidity > 60% between 'August 29, 2023' , and 'March 1, 2024'.
 
 ## 💨 Wind Analysis
-- **Hourly Wind Analysis for Wind Turbine Placement**
+- **Hourly Wind Analysis for Wind Turbine Placement:**
   - Query to analyze wind data on an hourly basis
 - **Locations with Strongest Winds:**
   - Query to identify locations with highest average wind speed
