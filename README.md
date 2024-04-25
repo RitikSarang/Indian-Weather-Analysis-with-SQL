@@ -61,6 +61,8 @@ The weather data used in this analysis was sourced from reputable sources such a
 ## 🌡️ Temperature and Feels-Like Temperature Comparison
 - **Locations with Highest Feels-Like Temperature Deviation:**
   - Query to find top locations where feels-like temperature differs most from actual temperature
+- **Monthly Average Temperature Comparison with Feels-Like Temperature:**
+  - Query for Monthly Average Temperature and Feels-Like Temperature variation.
 
 # Output
 
@@ -95,6 +97,10 @@ The weather data used in this analysis was sourced from reputable sources such a
 ## 🌡️ Temperature and Feels-Like Temperature Comparison
 ### Locations with Highest Feels-Like Temperature Deviation
 <img width="540" alt="comparedtofeels" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/dd69d172-f3e1-4c3d-b8ef-f65ab34f2d2e">
+
+### Monthly Average Temperature Comparison with Feels-Like Temperature
+<img width="519" alt="Screenshot 2024-04-25 at 12 30 30 PM" src="https://github.com/RitikSarang/Indian-Weather-Analysis-with-SQL/assets/68888839/9fd30c6a-0364-44b5-9d6f-baeac03b0b82">
+
 
 
 
